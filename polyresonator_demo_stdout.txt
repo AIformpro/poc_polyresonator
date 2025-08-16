@@ -1,0 +1,1 @@
+{"reward_avg": 0.9372, "stability_avg": 0.9622, "coherence_avg": 0.9245, "latency_p95": 114.7, "cost_total": 165.633, "outputs": "/mnt/data/polyresonator_demo"}
